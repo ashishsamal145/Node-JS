@@ -18,4 +18,6 @@ var buffer3=Buffer.from("Hello");
 console.log(Buffer.compare(buffer1,buffer2));
 console.log(Buffer.compare(buffer1,buffer3));
 console.log(Buffer.compare(buffer2,buffer3));
+console.log(Buffer.compare(buffer3,buffer1));
+console.log(Buffer.compare(buffer3,buffer2));
 
