@@ -1,0 +1,6 @@
+CRUD methods
+------------------------------
+create---------->Add/insert => post
+retrieve-------->Read       => get
+update --------->update/edit =>put
+delete --------->Delete     => delete
