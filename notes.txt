@@ -4,3 +4,7 @@ create---------->Add/insert => post
 retrieve-------->Read       => get
 update --------->update/edit =>put
 delete --------->Delete     => delete
+
+mongodb query operator
+
+sendgrid recovery code: BWUSJSHTD4LV6C4QE3YQYQBB
