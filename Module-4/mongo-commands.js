@@ -73,7 +73,7 @@ db.movies.find({id : {$eq:"101"}})
 
 db.movies.findOne({rating: {$eq:8}})
 
-db.movies,update({name:"Iron man 2"}, { $set : {name: "Iron Man 1" }})
+db.movies.update({name:"Iron man 2"}, { $set : {name: "Iron Man 1" }})
 
 db.movies.deleteOne({name: "Iron Man 1"})
 
